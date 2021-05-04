@@ -1,6 +1,5 @@
-# AllWomenTech_Projects
-Machine learnig Projects:
-1. How to make tasty cookies? - Logistic regression, Ramdam forest, KNN, SVM
-2. Restaurant reviews - Text embeddings 
-3. Foodie lovers - NLP, Wordcloud
-4. GooglePlay Gaming apps - Recommendation system
+<b>Machine learnig Project: How to make tasty cookies? <b/>
+Project objective: Classification Problem - Which baking elements can affect the quality of cookies?  
+Project techniques: Data mining, EDA , Model creation 
+Project models: Logistic regression, Ramdam forest, KNN, SVM
+
